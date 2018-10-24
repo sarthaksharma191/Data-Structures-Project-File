@@ -1,3 +1,3 @@
 # Data-Structures-Project-File
-# Sarthak Sharma
-# 1610991776
+Sarthak Sharma
+1610991776
